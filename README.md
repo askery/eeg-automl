@@ -8,4 +8,4 @@ One can create a conda env and install req-autoML.txt via:
 
 Or via pip with:
 
-``` pip install -r req-autoML.txt ```
+``` pip install -r req-autoML-pip.txt ```
