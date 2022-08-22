@@ -6,5 +6,6 @@ One can create a conda env and install req-autoML.txt via:
 
 ``` conda create --name <env> --file req-autoML.txt ```
 
-Obs: it does not work with ``` pip install -r req-autoML.txt ```
+Or via pip with?
 
+``` pip install -r req-autoML.txt ```
