@@ -2,11 +2,11 @@
 
 ##  Codes
 
-v1_TS_rawdata_TPOT.ipynb -> TPOT Jupyter Notebook for rawdata
+```v1_TS_rawdata_TPOT.ipynb```      -> TPOT Jupyter Notebook for rawdata
 
-TPOT Jupyter Notebook for feature
+-> TPOT Jupyter Notebook for feature
 
-autoKeras Jupyter Notebook for rawdata
+```v1_TS_rawdata_autoKeras.ipynb```  -> autoKeras Jupyter Notebook for rawdata
 
 autoKeras Jupyter Notebook for feature
 
