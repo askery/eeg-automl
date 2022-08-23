@@ -8,7 +8,7 @@
 
 ```v1_TS_rawdata_autoKeras.ipynb```  -> autoKeras Jupyter Notebook for rawdata
 
-autoKeras Jupyter Notebook for feature
+```exordial_TS_features_autoKeras.ipynb``` -> autoKeras Jupyter Notebook for feature
 
 ##  Env Config
 
