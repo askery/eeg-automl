@@ -14,7 +14,10 @@ autoKeras Jupyter Notebook for feature
 
 Codes require, in general, TPOT and autoKeras.
 
-They can be installed via:
+TPOT can be installed via:
 
 ``` pip install TPOT ``` or  ``` conda install -c conda-forge tpot ```
+
+autoKeras can be installed via:
+
 ``` pip install autokeras ```
