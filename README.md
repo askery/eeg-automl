@@ -2,7 +2,7 @@
 
 ##  Codes
 
-TPOT Jupyter Notebook for rawdata
+v1_TS_rawdata_TPOT.ipynb -> TPOT Jupyter Notebook for rawdata
 
 TPOT Jupyter Notebook for feature
 
