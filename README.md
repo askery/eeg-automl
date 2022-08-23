@@ -14,12 +14,7 @@ autoKeras Jupyter Notebook for feature
 
 Codes require, in general, TPOT and autoKeras.
 
-One can create a conda env and install req-autoML.txt via:
+They can be installed via:
 
-``` conda create --name <env> --file req-autoML.txt ```
-
-Or via pip with:
-
-``` pip install -r req-autoML-pip.txt ```
-
-(the requirements are not minimal)
+``` pip install TPOT ``` or  ``` conda install -c conda-forge tpot ```
+``` pip install autokeras ```
