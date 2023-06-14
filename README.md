@@ -1,4 +1,4 @@
-# ecg-automl
+# eeg-automl
 
 ##  Codes
 
