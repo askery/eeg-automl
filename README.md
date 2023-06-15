@@ -1,6 +1,10 @@
 # Automated Machine Learning for drowsiness detection with EEG signals
 
-In this repository, we make available the code and best models associated with the manuscript `Automated Machine Learning for drowsiness detection with EEG signals` <span style="color:red">((TO-DO: arxiv link))</span>.
+In this repository, we make available the code and best models associated with the manuscript `Automated Machine Learning for drowsiness detection with EEG signals` 
+
+```html
+<span style="color:red">((TO-DO: arxiv link))</span>.
+```
 
 The repository is organized as follows:
 
@@ -29,7 +33,9 @@ The repository is organized as follows:
 └── README.md
 ```
 
+```html
 <span style="color:red">((TO-DO: edit with the actual names of the files/folders for the autokeras/tf models))</span>.
+```
 ______________
 
 In the folder `data` you can find all the data used in the study, in `xlsx`, `csv` and `parquet` formats. Each file contains data corresponding to one of the 5 subjects used in the study (those which alternate the classification of alert to drowsy from the first PVT to the third PVT - i.e., subjects 1, 5, 6, 8 and 10). As discussed in the manuscript, we only used the data from the C4 EEG channel, sampled at 512 Hz. Thus, all file names start with `C4_ID`, where `ID` identifies the corresponding subject. For each subject, we have 3 different types of data, according to the respective indication in the data file name:
@@ -40,8 +46,9 @@ In the folder `data` you can find all the data used in the study, in `xlsx`, `cs
 
 - `features`: This contains the 3 features calculated from the EEG raw data, as discussed in Sec. III-B of the manuscript.
 
+```html
 <span style="color:red">((TO-DO: please check if the data description is accurate, and if the data in the repo is indeed the data used in the experiments!!!))</span>.
-
+```
 ______________
 
 In the folder `best_models` you find the model objects for each one of the best models found for each subject, as highlighted in Table II of the manuscript: `TABLE II: MLP and AutoML results, in %; RD: raw data, F: features; best performance per subject highlighted in gray`. The file names indicate the subject, input data arrangement, type of AutoML solution, and the respective model accuracy:
@@ -58,8 +65,9 @@ In the folder `best_models` you find the model objects for each one of the best 
 
 - `xxx-all`: best generalist model: tensorflow model built using AutoKeras, yielding 82.54% accuracy.
 
+```html
 <span style="color:red">((TO-DO: edit with the actual names of the files/folders for the autokeras/tf models))</span>.
-
+```
 ______________
 
 In the folder `autokeras_experiments` you find notebooks with the code used in the AutoKeras experiments:
@@ -88,8 +96,11 @@ In the folder `utils` you can find some ancillary code, namely:
 
 ______________
 
-In the folder `confusion_matrices_mlps` you can find the confusion matrices for each one of the fine-tuned MLP models, for each subject and each one of the three different input data arrangements. <span style="color:red">(((TO-DO: check if this description is correct!!!)))</span>.
+In the folder `confusion_matrices_mlps` you can find the confusion matrices for each one of the fine-tuned MLP models, for each subject and each one of the three different input data arrangements. 
 
+```html
+<span style="color:red">(((TO-DO: check if this description is correct)))</span>.
+```
 ______________
 
 ## Configuration of the environment
