@@ -96,7 +96,7 @@ In the folder `utils` you can find some ancillary code, namely:
 
 ______________
 
-In the folder `confusion_matrices_mlps` you can find the confusion matrices for each one of the fine-tuned MLP models, for each subject and each one of the three different input data arrangements. 
+In the folder `confusion_matrices_mlps` you can find the confusion matrices for each one of the fine-tuned MLP benchmark models, for each subject and each one of the three different input data arrangements. 
 
 ```diff
 - (((TO-DO: check if this description is correct))).
