@@ -24,6 +24,7 @@ The repository is organized as follows:
 ├── tpot_experiments/
 │   ├── exordial_TS_features_TPOT.ipynb
 │   ├── v1_TS_rawdata_TPOT.ipynb
+│   ├── exordial_TS_mix_feat_TPOT.ipynb
 ├── utils/
 │   ├── classical_MLP.py
 │   ├── data_parser_and_brief_EDA.ipynb
