@@ -98,9 +98,6 @@ ______________
 
 In the folder `confusion_matrices_mlps` you can find the confusion matrices for each one of the fine-tuned MLP benchmark models, for each subject and each one of the three different input data arrangements. 
 
-```diff
-- (((TO-DO: check if this description is correct))).
-```
 ______________
 
 ## Configuration of the environment
