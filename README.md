@@ -43,9 +43,6 @@ In the folder `data` you can find all the data used in the study, in `xlsx`, `cs
 
 - `features`: This contains the 3 features calculated from the EEG raw data, as discussed in Sec. III-B of the manuscript.
 
-```diff
-- ((TO-DO: please check if the data description is accurate, and if the data in the repo is indeed the data used in the experiments!!!))
-```
 ______________
 
 In the folder `best_models` you find the model objects for each one of the best models found for each subject, as highlighted in Table II of the manuscript: `TABLE II: MLP and AutoML results, in %; RD: raw data, F: features; best performance per subject highlighted in gray`. The file names indicate the subject, input data arrangement, type of AutoML solution, and the respective model accuracy:
@@ -58,13 +55,10 @@ In the folder `best_models` you find the model objects for each one of the best 
 
 - `C4_8_FE_only_acc_0.9943`: best model for subject 8: tensorflow model built using AutoKeras, yielding 99.43% accuracy;
 
-- `xxx-10`: best model for subject 10: tensorflow model built using AutoKeras, yielding 98.37% accuracy;
+- `C4_10_mix_FE_RD_acc_0.9837`: best model for subject 10: tensorflow model built using AutoKeras, yielding 98.37% accuracy;
 
-- `xxx-all`: best generalist model: tensorflow model built using AutoKeras, yielding 82.54% accuracy.
+- `All_mix_FE_RD_acc_0.8254`: best generalist model: tensorflow model built using AutoKeras, yielding 82.54% accuracy.
 
-```diff
-- ((TO-DO: edit with the actual names of the files/folders for the autokeras/tf models)).
-```
 ______________
 
 In the folder `autokeras_experiments` you find notebooks with the code used in the AutoKeras experiments:
