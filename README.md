@@ -33,9 +33,6 @@ The repository is organized as follows:
 └── README.md
 ```
 
-```diff
-- ((TO-DO: edit with the actual names of the files/folders for the autokeras/tf models))
-```
 ______________
 
 In the folder `data` you can find all the data used in the study, in `xlsx`, `csv` and `parquet` formats. Each file contains data corresponding to one of the 5 subjects used in the study (those which alternate the classification of alert to drowsy from the first PVT to the third PVT - i.e., subjects 1, 5, 6, 8 and 10). As discussed in the manuscript, we only used the data from the C4 EEG channel, sampled at 512 Hz. Thus, all file names start with `C4_ID`, where `ID` identifies the corresponding subject. For each subject, we have 3 different types of data, according to the respective indication in the data file name:
