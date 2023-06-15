@@ -15,9 +15,9 @@ The repository is organized as follows:
 │   ├── C4_1_FE_RD_tpot_pipeline_0.9536.py
 │   ├── C4_5_RD_only_acc_0.8283
 │   ├── C4_6_FE_RD_tpot_pipeline_acc_0.9992.py
-│   ├── xxx-8
-│   ├── xxx-10
-│   ├── xxx-all
+│   ├── C4_8_FE_only_acc_0.9943
+│   ├── C4_10_mix_FE_RD_acc_0.9837
+│   ├── All_mix_FE_RD_acc_0.8254
 ├── autokeras_experiments/
 │   ├── exordial_TS_features_autoKeras.ipynb
 │   ├── v1_TS_rawdata_autoKeras.ipynb
