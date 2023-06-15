@@ -69,6 +69,7 @@ In the folder `autokeras_experiments` you find notebooks with the code used in t
 
 - `exordial_TS_features_autoKeras.ipynb`: AutoKeras experiments using feature vectors.
 
+- `vf_TS_mix_feat_autoKeras.ipynb`: AutoKeras experiments using raw data and feature vectors.
 ______________
 
 In the folder `tpot_experiments` you find notebooks with the code used in the TPOT experiments:
@@ -76,6 +77,8 @@ In the folder `tpot_experiments` you find notebooks with the code used in the TP
 - `v1_TS_rawdata_TPOT.ipynb`: TPOT experiments using raw data (RD);
 
 - `exordial_TS_features_TPOT.ipynb`: TPOT experiments using feature vectors.
+
+- `exordial_TS_mix_feat_TPOT.ipynb`: TPOT experiments using raw data and feature vectors.
 
 ______________
 
