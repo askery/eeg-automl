@@ -2,8 +2,8 @@
 
 In this repository, we make available the code and best models associated with the manuscript `Automated Machine Learning for drowsiness detection with EEG signals` 
 
-```html
-<span style="color:red">((TO-DO: arxiv link))</span>.
+```diff
+- ((TO-DO: arxiv link))
 ```
 
 The repository is organized as follows:
@@ -33,8 +33,8 @@ The repository is organized as follows:
 └── README.md
 ```
 
-```html
-<span style="color:red">((TO-DO: edit with the actual names of the files/folders for the autokeras/tf models))</span>.
+```diff
+- ((TO-DO: edit with the actual names of the files/folders for the autokeras/tf models))
 ```
 ______________
 
@@ -46,8 +46,8 @@ In the folder `data` you can find all the data used in the study, in `xlsx`, `cs
 
 - `features`: This contains the 3 features calculated from the EEG raw data, as discussed in Sec. III-B of the manuscript.
 
-```html
-<span style="color:red">((TO-DO: please check if the data description is accurate, and if the data in the repo is indeed the data used in the experiments!!!))</span>.
+```diff
+- ((TO-DO: please check if the data description is accurate, and if the data in the repo is indeed the data used in the experiments!!!))
 ```
 ______________
 
@@ -65,8 +65,8 @@ In the folder `best_models` you find the model objects for each one of the best 
 
 - `xxx-all`: best generalist model: tensorflow model built using AutoKeras, yielding 82.54% accuracy.
 
-```html
-<span style="color:red">((TO-DO: edit with the actual names of the files/folders for the autokeras/tf models))</span>.
+```diff
+- ((TO-DO: edit with the actual names of the files/folders for the autokeras/tf models)).
 ```
 ______________
 
@@ -98,8 +98,8 @@ ______________
 
 In the folder `confusion_matrices_mlps` you can find the confusion matrices for each one of the fine-tuned MLP models, for each subject and each one of the three different input data arrangements. 
 
-```html
-<span style="color:red">(((TO-DO: check if this description is correct)))</span>.
+```diff
+- (((TO-DO: check if this description is correct))).
 ```
 ______________
 
