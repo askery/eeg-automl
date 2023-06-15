@@ -3,7 +3,7 @@
 In this repository, we make available the code and best models associated with the manuscript `Automated Machine Learning for drowsiness detection with EEG signals` 
 
 ```diff
-to be available soon
+link of the manuscript to be available soon
 ```
 
 The repository is organized as follows:
