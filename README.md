@@ -52,11 +52,11 @@ In the folder `best_models` you find the model objects for each one of the best 
 
 - `C4_1_FE_RD_tpot_pipeline_0.9536.py`: best model for subject 1: pipeline using TPOT, yielding 95.36% accuracy;
 
-- `xxx-5`: best model for subject 5: tensorflow model built using AutoKeras, yielding 83.23% accuracy;
+- `C4_5_RD_only_acc_0.8283`: best model for subject 5: tensorflow model built using AutoKeras, yielding 82.83% accuracy;
 
 - `C4_6_FE_RD_tpot_pipeline_acc_0.9992.py`: best model for subject 6: pipeline using TPOT, yielding 99.92% accuracy;
 
-- `xxx-8`: best model for subject 8: tensorflow model built using AutoKeras, yielding 95.35% accuracy;
+- `C4_8_FE_only_acc_0.9943`: best model for subject 8: tensorflow model built using AutoKeras, yielding 99.43% accuracy;
 
 - `xxx-10`: best model for subject 10: tensorflow model built using AutoKeras, yielding 98.37% accuracy;
 
