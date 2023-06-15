@@ -21,6 +21,7 @@ The repository is organized as follows:
 ├── autokeras_experiments/
 │   ├── exordial_TS_features_autoKeras.ipynb
 │   ├── v1_TS_rawdata_autoKeras.ipynb
+│   ├── vf_TS_mix_feat_autoKeras.ipynb
 ├── tpot_experiments/
 │   ├── exordial_TS_features_TPOT.ipynb
 │   ├── v1_TS_rawdata_TPOT.ipynb
